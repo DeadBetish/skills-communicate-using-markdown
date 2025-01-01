@@ -8,3 +8,6 @@ int main()
     std::cout << "Hello World!\n";
 }
 ```
+- [x] log in github
+- [x] complete introduction to github course
+- [ ] complete skills-communicate-using-markdown course
